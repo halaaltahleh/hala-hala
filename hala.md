@@ -25,4 +25,7 @@ the specialized part of an *angiospermous* plant that occurs singly or in cluste
   6. 
 ___
 
-   
+
+| hala | hhhhh | bbbb |
+| ---- | ----- | ---- |
+| hala | hhhhh | bbbb |
