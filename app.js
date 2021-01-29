@@ -27,7 +27,6 @@ else {
     order = "error";
 }
 
-
 document.write(result);
 document.write(equal);
 document.write(order);
