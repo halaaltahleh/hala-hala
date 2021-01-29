@@ -29,13 +29,13 @@ var result;
 if (AGE = 24) {
     result = "thank you hala";
 }
-else
-    if (AGE >= 45) {
-        result = "my age 24 years";
-    }
-    else {
-        result = "goodby";
-    }
+else if (AGE >= 45) {
+    result = "my age 24 years";
+}
+else {
+    result = "goodby";
+}
+
 
 document.write(result)
 alert("thank you")
