@@ -1,4 +1,49 @@
+var order = prompt("what do you want turkish or mocca?");
+var nocups = prompt("what many cups do you want?");
+
+while (order !== "turkish" && order !== "mocca") {
+    order = promot("what do you want turkish or mocca?")
+}
+alert("ok");
+
+var picture = "";
+if (order === "turkish") {
+    picture = `<img src="images/book.png" />`;
+}
+else if (order === "mocca") {
+    picture = `<img src="images/newspaper.jpeg" />`;
+}
+
+var result = "";
+for (i = 0; i < nocups; i++) {
+    result = result + picture;
+}
+
+document.write(result);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 var username = prompt("whats your name?");
+
+
+
+
+
 var age = prompt("how old are you?");
 var nocups = prompt("what many of acups do you want?");
 
